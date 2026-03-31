@@ -1,0 +1,46 @@
+*{margin: 0}
+
+.wrap{width: 850px; margin: 0 auto;}
+.header {
+    margin: 0 auto;
+  width: 785px; height: 90px; background: #000;
+}
+.header .h_top {
+  width: 785px; height: 60px; display: flex; justify-content: space-between;
+}
+.header .h_top .logo {
+  width: 200px; height: 60px; background: red;
+}
+.top_menu {
+  width: 250px; height: 45px; background: rgb(255, 186, 186);
+  display: flex; align-items: end;
+}
+.top_menu a{
+  font-size: 14px; display: flex; justify-content: center;
+}
+.header .gnb {
+  width: 785px; height: 28px; background: red; margin-top: 2px;
+}
+.visual {
+    margin: 20px auto;
+  width: 850px; height: 300px; background: #000;
+}
+.content {
+    margin: 50px auto;
+  width: 785px; height: 230px; background: #000;
+}
+.content .c_top {
+  width: 785px; height: 166px; display: flex; justify-content: space-between;
+}
+.content .c_top .banner_box {
+  width: 510px; height: 166px; background: red;
+}
+.content .c_top .gnb_box {
+  width: 247px; height: 156px; background: red;
+}
+.content .notice {
+  width: 785px; height: 32px; background: red; margin-top: 32px;
+}
+.footer {
+  width: 850px; height: 100px; background: #000; margin-top: 80px;
+}

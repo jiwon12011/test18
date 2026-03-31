@@ -1,0 +1,13 @@
+.wrap{margin: 0 auto; width: 990px;}
+.header { margin: 0 auto;
+  width: 785px; height: 93px; background: #000;
+}
+.visual {
+  width: 990px; height: 392px; margin: 9px 0 32px 0; background: #000;
+}
+.section {
+  width: 785px; height: 230px; background: #000; margin: 0 auto;
+}
+.footer {
+  width: 990px; height: 90px; background: #000; margin: 55px auto 0;
+}
